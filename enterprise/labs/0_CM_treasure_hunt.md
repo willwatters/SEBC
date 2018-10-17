@@ -31,19 +31,19 @@ To get a list of all the CDH services hosting a property for enabling Kerberos a
 
 This is a list of CDH services that host a property for enabling Kerberos authentication:
 
-Flume
-HBase
-HCatalog
-Hive
-HttpFS
-Hue
-Impala
-Llama
-Oozie
-Solr
-Spark
-Sqoop
-ZooKeeper
+- Flume
+- HBase
+- HCatalog
+- Hive
+- HttpFS
+- Hue
+- Impala
+- Llama
+- Oozie
+- Solr
+- Spark
+- Sqoop
+- ZooKeeper
 
 
 ## How do you upgrade the CM agents?
@@ -59,10 +59,10 @@ This can be found via Search -> tsquery -> Chart Builder -> Examples
 
 
 ## Name all the roles that make up the Hive service
-Gateway
-Hive Metastore Server
-HiveServer2
-WebHcat Server
+- Gateway
+- Hive Metastore Server
+- HiveServer2
+- WebHcat Server
 
 
 ## What steps must be completed before integrating Cloudera Manager with Kerberos

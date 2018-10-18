@@ -1,6 +1,6 @@
 # Integrating Kerberos with Cloudera Manager
 
-## /var/kerberos/krb5kdc/kdc.conf (before Kerberos Enablement Wizard)
+## /etc/krb5.conf (before Kerberos Enablement Wizard)
 
 ```
 [root@ip-172-31-32-222 etc]# cat krb5.conf

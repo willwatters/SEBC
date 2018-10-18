@@ -112,7 +112,7 @@ This was done on all cluster hosts.  See below for one of the hosts:
 [root@ip-172-31-47-1 ~]# sudo useradd -u 1200 -g inserters ferdinand
 ```
 
-This was done on the KDC server:
+This was done on the KRB5 server:
 
 ```
 [root@ip-172-31-32-222 etc]# kadmin.local
